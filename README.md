@@ -1,5 +1,5 @@
 
-[![MasterHead](https://th.bing.com/th/id/R.cb0d139e178018df8b3e778369395ac7?rik=tam9wwhz18lzeQ&pid=ImgRaw&r=0)](https://rishavchanda.io)
+
 
 <h1 align="center">Hi 👋, I'm Zaki Abdullahi</h1>
 <h3 align="center">A Software Engineer from Somalia</h3>
