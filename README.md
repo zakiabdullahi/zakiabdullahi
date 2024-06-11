@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Zaki Abdullahi</h1>
 <h3 align="center">A Software Engineer from Somalia</h3>
-<img align="right " alt="coding" width="400" src="https://blog.patracompany.com/hubfs/computer-programmer.png" />
+<!-- <img align="right " alt="coding" width="400" src="https://blog.patracompany.com/hubfs/computer-programmer.png" /> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zakiabdullahi&label=Profile%20views&color=0e75b6&style=flat" alt="zakiabdullahi" /> </p>
 
