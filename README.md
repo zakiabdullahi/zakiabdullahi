@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/@qable2121" target="blank"><img src="https://img.shields.io/twitter/follow/@qable2121?logo=twitter&style=for-the-badge" alt="@qable2121" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter, React native,**
+- 🌱 I’m currently learning **Devops, Web3**
 
 - 💬 Ask me about **React , Next , Node**
 
