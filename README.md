@@ -6,7 +6,7 @@
 
 
 
-<p> I'm a full-stack  developer, and DevOps engineer based in bosaso, Somalia With over 4 years of  experience, I've delved into web development, DevOps </p> 
+<p> I'm a full-stack  developer, and DevOps engineer based in bosaso, Somalia With over 3 years of  experience, I've delved into web development, DevOps </p> 
 
 - 📫 How to reach me **qable2121@gmail.com**
 
