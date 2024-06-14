@@ -1,6 +1,8 @@
 <h1 >Hi 👋, I'm Zaki Abdullahi</h1>
 
-<h3 style="background-color:red;" > Software   | Devops | Engineer </h3>
+<h3> Software   | Devops | Engineer </h3>
+
+
 
 
 
