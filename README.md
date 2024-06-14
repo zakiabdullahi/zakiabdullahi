@@ -1,21 +1,16 @@
-[![MasterHead](https://th.bing.com/th/id/R.cb0d139e178018df8b3e778369395ac7?rik=tam9wwhz18lzeQ&pid=ImgRaw&r=0)](https://rishavchanda.io)
-
-
-<h1 align="center">Hi 👋, I'm Zaki Abdullahi</h1>
-<h3 align="center">A Software Engineer from Somalia</h3>
+<h1 >Hi 👋, I'm Zaki Abdullahi</h1>
+<h3 > Software   | Devops | Engineer </h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zakiabdullahi&label=Profile%20views&color=0e75b6&style=flat" alt="zakiabdullahi" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@qable2121" target="blank"><img src="https://img.shields.io/twitter/follow/@qable2121?logo=twitter&style=for-the-badge" alt="@qable2121" /></a> </p>
 
-- 🌱 I’m currently learning **Devops, Web3**
-
-- 💬 Ask me about **React , Next , Node**
+  <p>I'm a full-stack  developer, and DevOps engineer based in bosaso, Somalia With over 4 years of  experience, I've delved into web development, DevOps </p> 
 
 - 📫 How to reach me **qable2121@gmail.com**
 
-- ⚡ Fun fact **I am funny**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
