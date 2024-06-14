@@ -1,5 +1,5 @@
 <h1 >Hi 👋, I'm Zaki Abdullahi</h1>
-<h3 > Software   | Devops | Engineer </h3>
+<h3 style="background-color:#566173;" > Software   | Devops | Engineer </h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zakiabdullahi&label=Profile%20views&color=0e75b6&style=flat" alt="zakiabdullahi" /> </p>
