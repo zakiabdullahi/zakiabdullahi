@@ -3,11 +3,6 @@
 <h3> Software   | Devops | Engineer </h3>
 
 
-
-
-
-<p> I'm a full-stack developer | DevOps engineer  </p> 
-
 - 📫 How to reach me **qable2121@gmail.com**
 
 
