@@ -1,6 +1,6 @@
 <h1 >Hi 👋, I'm Zaki Abdullahi</h1>
 
-<h3> Software   | Devops | Engineer </h3>
+<h3> Software Engineer </h3>
 
 
 - 📫 How to reach me **qable2121@gmail.com**
